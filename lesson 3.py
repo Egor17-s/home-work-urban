@@ -2,6 +2,7 @@ name = "Egor"
 print(name)
 age = 26
 print(age)
-print(age + 1)
-is_student = (age <= (age + 1))
+age = age + 1
+print(age)
+is_student = True
 print(is_student)
